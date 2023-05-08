@@ -3,7 +3,6 @@ package com.example.dependencyinjectionstart.example2.data.database
 import android.content.Context
 import android.util.Log
 import com.example.dependencyinjectionstart.R
-import com.example.dependencyinjectionstart.example2.di.ApplicationScope
 import javax.inject.Inject
 
 class ExampleDatabase @Inject constructor(
